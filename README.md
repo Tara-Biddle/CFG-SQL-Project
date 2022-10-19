@@ -13,8 +13,10 @@ The requirements for the project are listed here:
 - In your database, create a stored procedure and demonstrate how it runs
 - In your database, create a trigger and demonstrate how it runs
 - In your database, create an event and demonstrate how it runs
-- Create a view that uses at least 3-4 base tables; prepare and demonstrate a query that uses the view to produce a logically arranged result set for analysis.
+- Create a view that uses at least 3-4 base tables; prepare and demonstrate a query that uses the view to produce a logically arranged result set for analysis
 - Prepare an example query with group by and having to demonstrate how to extract data from your database for analysis
+
+This project was voted joint best project of our cohort (50 students).
 
 ## Deployment
 To explore this project first run the 'Final Project Lawyers Firm.sql' script in MySQL Workbench to create and fill the database. The 'Final Project DB Diagram.mwb' and '.sql' files can then be explored to show a relational database diagram and run queries respectively.
