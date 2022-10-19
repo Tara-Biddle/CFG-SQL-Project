@@ -1,5 +1,3 @@
-DROP DATABASE lawyers_firm;
-
 CREATE DATABASE lawyers_firm;
 USE lawyers_firm;
 
