@@ -20,3 +20,5 @@ This project was voted joint best project of our cohort (50 students).
 
 ## Deployment
 To explore this project first run the 'OrderBySQL DB Creation.sql' script in MySQL Workbench to create and fill the database. The 'OrderBySQL DB Diagram.mwb' and 'OrderBySQL Queries.sql' files can then be explored to show a relational database diagram and run queries respectively.
+
+Two Tableau Dashboards were created to compliment this project, they can be found on my public account here https://public.tableau.com/app/profile/tara.biddle, named 'CFG Order By SQL - Revenue' and 'CFG Order By SQL - Cases' respectively.
