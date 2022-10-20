@@ -19,4 +19,4 @@ The requirements for the project are listed here:
 This project was voted joint best project of our cohort (50 students).
 
 ## Deployment
-To explore this project first run the 'Final Project Lawyers Firm.sql' script in MySQL Workbench to create and fill the database. The 'Final Project DB Diagram.mwb' and '.sql' files can then be explored to show a relational database diagram and run queries respectively.
+To explore this project first run the 'OrderBySQL DB Creation.sql' script in MySQL Workbench to create and fill the database. The 'OrderBySQL DB Diagram.mwb' and 'OrderBySQL Queries.sql' files can then be explored to show a relational database diagram and run queries respectively.
